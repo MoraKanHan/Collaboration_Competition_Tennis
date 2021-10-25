@@ -1,4 +1,3 @@
-# Collaboration_Competition_Tennis
 # Project 3: Multi-agent Collaboration and Competition
 <h3>Introduction</h3>
 For this project, MADDPG and MADDPG with priority experience replay were developed to train and evaluate two agents control rackets to bounce a ball over a net in the unity ML-agent Tennis environment.  This project is part of the Deep Reinforcement Learning Nanodegree program.
