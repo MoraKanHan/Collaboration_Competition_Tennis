@@ -124,6 +124,7 @@ Place the file in the DRLND GitHub repository, in the <code>p3_collab-compet/</c
 </svg>
     </clipboard-copy>
   </div></div>
+  
 ### 2- Install jupyter notebook
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>pip install jupyter
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -137,6 +138,7 @@ Place the file in the DRLND GitHub repository, in the <code>p3_collab-compet/</c
 </svg>
     </clipboard-copy>
   </div></div>
+  
 ### 3- Open the Tennis-MADDPG-PER.ipynb notebook
 <div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>jupyter notebook Tennis-MADDPG-PER.ipynb
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
@@ -150,6 +152,7 @@ Place the file in the DRLND GitHub repository, in the <code>p3_collab-compet/</c
 </svg>
     </clipboard-copy>
   </div></div>
+  
 ### 4- Run Code
 Follow the instructions in <code>MADDPG-PER/Tennis-MADDPG_PER.ipynb</code> Notebook to get started with training the agents agent!
   
