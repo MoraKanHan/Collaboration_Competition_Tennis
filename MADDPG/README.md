@@ -114,8 +114,8 @@ Place the file in the DRLND GitHub repository, in the <code>p3_collab-compet/</c
 # Instructions
 
 ### 1- Clone the repository
-<div class="highlight highlight-source-shell position-relative overflow-auto"><pre>git clone https://github.com/abhisheksgumadi/continuous-control.git <span class="pl-c1">.</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/MoraKanHan/Collaboration_Competition_Tennis.git .
+<div class="highlight highlight-source-shell position-relative overflow-auto"><pre>git clone https://github.com/MoraKanHan/Collaboration_Competition_Tennis.git <span class="pl-c1">.</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/MoraKanHan/Collaboration_Competition_Tennis.git 
 " tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
@@ -139,7 +139,7 @@ Place the file in the DRLND GitHub repository, in the <code>p3_collab-compet/</c
     </clipboard-copy>
   </div></div>
 ### 3- Open the Tennis.ipynb notebook
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>jupyter notebook Continuous_Control.ipynb
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>jupyter notebook Tennis.ipynb
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="jupyter notebook Tennis.ipynb
 " tabindex="0" role="button">
